@@ -1,0 +1,4 @@
+1/
+	Start rabbitmq-server
+2/
+	You can start a worker using ' Celery worker -A [module] '
